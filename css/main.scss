@@ -92,3 +92,7 @@ body.groomsman {
     4px 40px 2px #FF0000;
   }
 }
+
+.maps iframe {
+  pointer-events: none;
+}
