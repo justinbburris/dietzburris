@@ -1,3 +1,5 @@
-$('.maps').click(function () {
-  $('.maps iframe').css("pointer-events", "auto");
-});
+(function() {
+  $('.maps').click(function () {
+    $('.maps iframe').css("pointer-events", "auto");
+  });
+})();

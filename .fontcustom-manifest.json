@@ -1,0 +1,63 @@
+{
+  "checksum": {
+    "previous": "d8e4b522308eb64093a56f99ca67e5c16280ad92db1cef97ddec58611108ed6a",
+    "current": "d8e4b522308eb64093a56f99ca67e5c16280ad92db1cef97ddec58611108ed6a"
+  },
+  "fonts": [
+    "fontcustom/fontcustom_d8e4b522308eb64093a56f99ca67e5c1.ttf",
+    "fontcustom/fontcustom_d8e4b522308eb64093a56f99ca67e5c1.svg",
+    "fontcustom/fontcustom_d8e4b522308eb64093a56f99ca67e5c1.woff",
+    "fontcustom/fontcustom_d8e4b522308eb64093a56f99ca67e5c1.eot"
+  ],
+  "glyphs": {
+    "placesetting": {
+      "codepoint": 61700,
+      "source": "fonts/vectors/placesetting.svg"
+    },
+    "rings": {
+      "codepoint": 61696,
+      "source": "fonts/vectors/rings.svg"
+    },
+    "table": {
+      "codepoint": 61699,
+      "source": "fonts/vectors/table.svg"
+    },
+    "wine": {
+      "codepoint": 61697,
+      "source": "fonts/vectors/wine.svg"
+    }
+  },
+  "options": {
+    "autowidth": false,
+    "config": false,
+    "css_selector": ".icon-{{glyph}}",
+    "debug": false,
+    "font_ascent": 448,
+    "font_descent": 64,
+    "font_design_size": 16,
+    "font_em": 512,
+    "font_name": "fontcustom",
+    "force": false,
+    "input": {
+      "templates": "fonts/vectors",
+      "vectors": "fonts/vectors"
+    },
+    "no_hash": false,
+    "output": {
+      "css": "fontcustom",
+      "fonts": "fontcustom",
+      "preview": "fontcustom"
+    },
+    "preprocessor_path": null,
+    "quiet": false,
+    "skip_first": false,
+    "templates": [
+      "css",
+      "preview"
+    ]
+  },
+  "templates": [
+    "fontcustom/fontcustom.css",
+    "fontcustom/fontcustom-preview.html"
+  ]
+}
