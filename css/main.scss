@@ -43,6 +43,11 @@ $theme-dark: #222;
         "base"
 ;
 
+/* Bootstrap overrides */
+i {
+  vertical-align: middle;
+}
+
 body.groomsman {
   background-color: #0E0E1F;
   color: white;

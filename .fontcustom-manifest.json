@@ -1,15 +1,23 @@
 {
   "checksum": {
-    "previous": "d8e4b522308eb64093a56f99ca67e5c16280ad92db1cef97ddec58611108ed6a",
-    "current": "d8e4b522308eb64093a56f99ca67e5c16280ad92db1cef97ddec58611108ed6a"
+    "previous": "4b6e007b7d0fa3646aa0b33dce17a1640bec48fad7daa8d5bdb0e87104d55ad3",
+    "current": "4b6e007b7d0fa3646aa0b33dce17a1640bec48fad7daa8d5bdb0e87104d55ad3"
   },
   "fonts": [
-    "fontcustom/fontcustom_d8e4b522308eb64093a56f99ca67e5c1.ttf",
-    "fontcustom/fontcustom_d8e4b522308eb64093a56f99ca67e5c1.svg",
-    "fontcustom/fontcustom_d8e4b522308eb64093a56f99ca67e5c1.woff",
-    "fontcustom/fontcustom_d8e4b522308eb64093a56f99ca67e5c1.eot"
+    "fontcustom/fontcustom_4b6e007b7d0fa3646aa0b33dce17a164.ttf",
+    "fontcustom/fontcustom_4b6e007b7d0fa3646aa0b33dce17a164.svg",
+    "fontcustom/fontcustom_4b6e007b7d0fa3646aa0b33dce17a164.woff",
+    "fontcustom/fontcustom_4b6e007b7d0fa3646aa0b33dce17a164.eot"
   ],
   "glyphs": {
+    "lake": {
+      "codepoint": 61702,
+      "source": "fonts/vectors/lake.svg"
+    },
+    "mountains": {
+      "codepoint": 61701,
+      "source": "fonts/vectors/mountains.svg"
+    },
     "placesetting": {
       "codepoint": 61700,
       "source": "fonts/vectors/placesetting.svg"
